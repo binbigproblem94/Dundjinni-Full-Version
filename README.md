@@ -238,4 +238,4 @@ This repository serves as the official landing page for Dundjinni. The software 
 **Get the most recent version of Dundjinni today!**
 
 ---
-**Last updated:** 2026-09-11 10:51:13 UTC
+**Last updated:** 2026-09-11 14:53:53 UTC
